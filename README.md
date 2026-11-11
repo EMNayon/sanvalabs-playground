@@ -1,4 +1,4 @@
-# Sanvalabs Packages Demo
+# Sanvalabs Playground
 
 A Laravel app that shows the Sanvalabs packages for Bangladesh working live: convert numbers and dates to Bangla, and validate Bangladeshi mobile numbers.
 
@@ -43,11 +43,11 @@ No database, Node.js or build step is needed.
 ## Getting started
 
 ```bash
-git clone https://github.com/EMNayon/sanvalabs-packages-demo.git
+git clone https://github.com/EMNayon/sanvalabs-playground.git
 ```
 
 ```bash
-cd sanvalabs-packages-demo
+cd sanvalabs-playground
 ```
 
 ```bash
